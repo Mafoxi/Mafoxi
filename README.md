@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Bot Casino](https://github.com/Mafoxi/Bot.Discord.Prueba)
 
-- 🌱 I’m currently learning **JavaScript and Css**
+- 🌱 I’m currently learning: **JavaScript and Css**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mafoxi?tab=projects](https://github.com/Mafoxi?tab=projects)
+- 👨‍💻 All of my projects are available at: [https://github.com/Mafoxi?tab=projects](https://github.com/Mafoxi?tab=projects)
 
-- 💬 Ask me about **how to create a bot of discord**
+- 💬 Ask me about: **how to create a bot of discord**
 
-- 📫 How to reach me **mafoxicontacto@gmail.com**
+- 📫 How to reach me: **mafoxicontacto@gmail.com**
 
-- ⚡ Fun fact **I am studying Civil Engineering**
+- ⚡ Fun fact: **I am studying Civil Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
