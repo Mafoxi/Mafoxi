@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **JavaScript and Css**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/Mafoxi?tab=projects](https://github.com/Mafoxi?tab=projects)
+- 👨‍💻 All of my projects are available at: [Projects of Mafoxi](https://github.com/Mafoxi?tab=projects)
 
 - 💬 Ask me about: **how to create a bot of discord**
 
