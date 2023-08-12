@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Camilo Andres Cuelllar Plaza</h1>
+<h1 align="center">Hi 👋, I'm Camilo Andres Cuellar Plaza</h1>
 <h3 align="center">As a committed frontend developer, I possess a fervent drive for crafting engaging user experiences. I proudly hail from Colombia and stand out in the realm of graphic design. Additionally, I boast hands-on expertise in both designing and programming Discord bots.</h3>
 
 <p align="left"> <a href="https://twitter.com/elmafoxi" target="blank"><img src="https://img.shields.io/twitter/follow/elmafoxi?logo=twitter&style=for-the-badge" alt="elmafoxi" /></a> </p>
